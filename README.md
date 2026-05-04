@@ -87,4 +87,4 @@ Contributions are welcome! Please feel free to open a Pull Request or report an 
 
 ---
 
-**Developed with ❤️ by [Your Name]**
+**Developed with ❤️ by [Atif imran]**
